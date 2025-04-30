@@ -2,7 +2,7 @@
 
 Welcome to my digital lab — where code meets curiosity, and bugs fear to exist 🐛🚫
 
-🎓 B.Tech in **Computer Science and Engineering**  
+🎓 B.Tech in **SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY**  
 🧠 Specializing in **Artificial Intelligence & Machine Learning (AIML)**  
 📍 Based in curiosity, fueled by caffeine ☕ and Python scripts
 
